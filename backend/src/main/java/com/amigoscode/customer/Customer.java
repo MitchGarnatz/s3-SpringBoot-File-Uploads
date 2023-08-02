@@ -22,6 +22,8 @@ import java.util.Objects;
                         name = "profile_image_id_unique",
                         columnNames = "profileImageId"
                 )
+
+
         }
 )
 public class Customer implements UserDetails {
